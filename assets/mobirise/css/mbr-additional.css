@@ -1527,7 +1527,7 @@ body {
   justify-content: center;
   flex-wrap: wrap;
   align-items: stretch;
-  background-color: #232323;
+  background-color: #ffffff;
 }
 .cid-qV95aoYu9P .box-item {
   width: 29%;
@@ -1594,6 +1594,36 @@ body {
 .cid-qV95aoYu9P H1 {
   color: #ffffff;
   text-align: center;
+}
+.cid-rcl45K4hCI {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rcl45K4hCI .card {
+  padding: 1rem 1rem 3rem 1rem;
+}
+.cid-rcl45K4hCI .card-img {
+  padding: 0 0 2rem;
+}
+.cid-rcl45K4hCI .mbr-section-btn {
+  margin-left: 0;
+}
+@media (min-width: 992px) {
+  .cid-rcl45K4hCI .my-col {
+    -webkit-flex: 0 0 20%;
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rcl45K4hCI .card-title {
+    text-align: center;
+  }
+  .cid-rcl45K4hCI p.mbr-text {
+    text-align: center;
+  }
 }
 .cid-qVakdjupDe {
   padding-top: 60px;
